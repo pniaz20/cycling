@@ -1,0 +1,46 @@
+﻿D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (AnimateFan.vcxproj, pouyaBot.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  nrutil.cxx
+  Source.cpp
+D:\POUYA_DOCUMENTS\ACADEMICS\2020 Spring\MECH 534\POUYA_ASMNT_03\Cycling\Source.cpp(63,27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\POUYA_DOCUMENTS\ACADEMICS\2020 Spring\MECH 534\POUYA_ASMNT_03\Cycling\Source.cpp(72,95): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+D:\POUYA_DOCUMENTS\ACADEMICS\2020 Spring\MECH 534\POUYA_ASMNT_03\Cycling\Source.cpp(73,85): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\POUYA_DOCUMENTS\ACADEMICS\2020 Spring\MECH 534\POUYA_ASMNT_03\Cycling\Source.cpp(73,107): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+D:\POUYA_DOCUMENTS\ACADEMICS\2020 Spring\MECH 534\POUYA_ASMNT_03\Cycling\Source.cpp(74,86): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\POUYA_DOCUMENTS\ACADEMICS\2020 Spring\MECH 534\POUYA_ASMNT_03\Cycling\Source.cpp(74,108): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+D:\POUYA_DOCUMENTS\ACADEMICS\2020 Spring\MECH 534\POUYA_ASMNT_03\Cycling\Source.cpp(75,95): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+D:\POUYA_DOCUMENTS\ACADEMICS\2020 Spring\MECH 534\POUYA_ASMNT_03\Cycling\Source.cpp(76,85): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\POUYA_DOCUMENTS\ACADEMICS\2020 Spring\MECH 534\POUYA_ASMNT_03\Cycling\Source.cpp(76,107): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+D:\POUYA_DOCUMENTS\ACADEMICS\2020 Spring\MECH 534\POUYA_ASMNT_03\Cycling\Source.cpp(77,86): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\POUYA_DOCUMENTS\ACADEMICS\2020 Spring\MECH 534\POUYA_ASMNT_03\Cycling\Source.cpp(77,108): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+D:\POUYA_DOCUMENTS\ACADEMICS\2020 Spring\MECH 534\POUYA_ASMNT_03\Cycling\Source.cpp(91,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\POUYA_DOCUMENTS\ACADEMICS\2020 Spring\MECH 534\POUYA_ASMNT_03\Cycling\Source.cpp(166,44): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\POUYA_DOCUMENTS\ACADEMICS\2020 Spring\MECH 534\POUYA_ASMNT_03\Cycling\Source.cpp(167,44): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\POUYA_DOCUMENTS\ACADEMICS\2020 Spring\MECH 534\POUYA_ASMNT_03\Cycling\Source.cpp(174,28): warning C4305: '=': truncation from 'double' to 'float'
+D:\POUYA_DOCUMENTS\ACADEMICS\2020 Spring\MECH 534\POUYA_ASMNT_03\Cycling\Source.cpp(190,34): warning C4305: '=': truncation from 'double' to 'float'
+D:\POUYA_DOCUMENTS\ACADEMICS\2020 Spring\MECH 534\POUYA_ASMNT_03\Cycling\Source.cpp(191,33): warning C4305: '=': truncation from 'double' to 'float'
+D:\POUYA_DOCUMENTS\ACADEMICS\2020 Spring\MECH 534\POUYA_ASMNT_03\Cycling\Source.cpp(192,34): warning C4305: '=': truncation from 'double' to 'float'
+D:\POUYA_DOCUMENTS\ACADEMICS\2020 Spring\MECH 534\POUYA_ASMNT_03\Cycling\Source.cpp(194,34): warning C4305: '=': truncation from 'double' to 'float'
+D:\POUYA_DOCUMENTS\ACADEMICS\2020 Spring\MECH 534\POUYA_ASMNT_03\Cycling\Source.cpp(195,34): warning C4305: '=': truncation from 'double' to 'float'
+D:\POUYA_DOCUMENTS\ACADEMICS\2020 Spring\MECH 534\POUYA_ASMNT_03\Cycling\Source.cpp(196,34): warning C4305: '=': truncation from 'double' to 'float'
+D:\POUYA_DOCUMENTS\ACADEMICS\2020 Spring\MECH 534\POUYA_ASMNT_03\Cycling\Source.cpp(198,34): warning C4305: '=': truncation from 'double' to 'float'
+D:\POUYA_DOCUMENTS\ACADEMICS\2020 Spring\MECH 534\POUYA_ASMNT_03\Cycling\Source.cpp(199,34): warning C4305: '=': truncation from 'double' to 'float'
+D:\POUYA_DOCUMENTS\ACADEMICS\2020 Spring\MECH 534\POUYA_ASMNT_03\Cycling\Source.cpp(200,34): warning C4305: '=': truncation from 'double' to 'float'
+D:\POUYA_DOCUMENTS\ACADEMICS\2020 Spring\MECH 534\POUYA_ASMNT_03\Cycling\Source.cpp(202,33): warning C4305: '=': truncation from 'double' to 'float'
+D:\POUYA_DOCUMENTS\ACADEMICS\2020 Spring\MECH 534\POUYA_ASMNT_03\Cycling\Source.cpp(203,33): warning C4305: '=': truncation from 'double' to 'float'
+D:\POUYA_DOCUMENTS\ACADEMICS\2020 Spring\MECH 534\POUYA_ASMNT_03\Cycling\Source.cpp(204,34): warning C4305: '=': truncation from 'double' to 'float'
+D:\POUYA_DOCUMENTS\ACADEMICS\2020 Spring\MECH 534\POUYA_ASMNT_03\Cycling\Source.cpp(206,33): warning C4305: '=': truncation from 'double' to 'float'
+D:\POUYA_DOCUMENTS\ACADEMICS\2020 Spring\MECH 534\POUYA_ASMNT_03\Cycling\Source.cpp(207,34): warning C4305: '=': truncation from 'double' to 'float'
+D:\POUYA_DOCUMENTS\ACADEMICS\2020 Spring\MECH 534\POUYA_ASMNT_03\Cycling\Source.cpp(208,34): warning C4305: '=': truncation from 'double' to 'float'
+D:\POUYA_DOCUMENTS\ACADEMICS\2020 Spring\MECH 534\POUYA_ASMNT_03\Cycling\Source.cpp(210,33): warning C4305: '=': truncation from 'double' to 'float'
+D:\POUYA_DOCUMENTS\ACADEMICS\2020 Spring\MECH 534\POUYA_ASMNT_03\Cycling\Source.cpp(211,34): warning C4305: '=': truncation from 'double' to 'float'
+D:\POUYA_DOCUMENTS\ACADEMICS\2020 Spring\MECH 534\POUYA_ASMNT_03\Cycling\Source.cpp(212,34): warning C4305: '=': truncation from 'double' to 'float'
+D:\POUYA_DOCUMENTS\ACADEMICS\2020 Spring\MECH 534\POUYA_ASMNT_03\Cycling\Source.cpp(364,60): warning C4305: 'argument': truncation from 'double' to 'const float'
+D:\POUYA_DOCUMENTS\ACADEMICS\2020 Spring\MECH 534\POUYA_ASMNT_03\Cycling\Source.cpp(376,69): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\POUYA_DOCUMENTS\ACADEMICS\2020 Spring\MECH 534\POUYA_ASMNT_03\Cycling\Source.cpp(392,26): warning C4305: '=': truncation from 'double' to 'float'
+D:\POUYA_DOCUMENTS\ACADEMICS\2020 Spring\MECH 534\POUYA_ASMNT_03\Cycling\Source.cpp(480,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\POUYA_DOCUMENTS\ACADEMICS\2020 Spring\MECH 534\POUYA_ASMNT_03\Cycling\Source.cpp(480,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\POUYA_DOCUMENTS\ACADEMICS\2020 Spring\MECH 534\POUYA_ASMNT_03\Cycling\Source.cpp(485,22): warning C4305: '=': truncation from 'double' to 'float'
+D:\POUYA_DOCUMENTS\ACADEMICS\2020 Spring\MECH 534\POUYA_ASMNT_03\Cycling\Source.cpp(486,22): warning C4305: '=': truncation from 'double' to 'float'
+D:\POUYA_DOCUMENTS\ACADEMICS\2020 Spring\MECH 534\POUYA_ASMNT_03\Cycling\Source.cpp(487,22): warning C4305: '=': truncation from 'double' to 'float'
+  Generating Code...
+  Cycling.vcxproj -> D:\POUYA_DOCUMENTS\ACADEMICS\2020 Spring\MECH 534\POUYA_ASMNT_03\Cycling\x64\Debug\Cycling.exe

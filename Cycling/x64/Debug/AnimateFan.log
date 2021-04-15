@@ -1,0 +1,11 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(459,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (pouyaBot.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+E:\POUYA's DOCUMENTS\ACADEMICS\MECH 534\test\POUYA_ASMNT_02\Fan\Source.cpp(55,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\POUYA's DOCUMENTS\ACADEMICS\MECH 534\test\POUYA_ASMNT_02\Fan\Source.cpp(133,25): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+E:\POUYA's DOCUMENTS\ACADEMICS\MECH 534\test\POUYA_ASMNT_02\Fan\Source.cpp(245,64): warning C4305: 'argument': truncation from 'double' to 'const float'
+E:\POUYA's DOCUMENTS\ACADEMICS\MECH 534\test\POUYA_ASMNT_02\Fan\Source.cpp(249,53): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\POUYA's DOCUMENTS\ACADEMICS\MECH 534\test\POUYA_ASMNT_02\Fan\Source.cpp(282,40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\POUYA's DOCUMENTS\ACADEMICS\MECH 534\test\POUYA_ASMNT_02\Fan\Source.cpp(287,22): warning C4305: '=': truncation from 'double' to 'float'
+E:\POUYA's DOCUMENTS\ACADEMICS\MECH 534\test\POUYA_ASMNT_02\Fan\Source.cpp(288,22): warning C4305: '=': truncation from 'double' to 'float'
+E:\POUYA's DOCUMENTS\ACADEMICS\MECH 534\test\POUYA_ASMNT_02\Fan\Source.cpp(289,22): warning C4305: '=': truncation from 'double' to 'float'
+  AnimateFan.vcxproj -> E:\POUYA's DOCUMENTS\ACADEMICS\MECH 534\test\POUYA_ASMNT_02\Fan\x64\Debug\AnimateFan.exe

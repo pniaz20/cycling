@@ -1,0 +1,128 @@
+#Inventor V2.1 ascii
+
+
+Separator {
+
+  Rotation {
+
+  }
+  EventCallback {
+
+  }
+  Separator {
+
+    Material {
+      diffuseColor 1 0 0
+      shininess 0.5
+
+    }
+    Sphere {
+      radius 1
+
+    }
+  }
+  Group {
+
+    Separator {
+
+      Material {
+        diffuseColor 0.89999998 0.80000001 0.1
+        shininess 0.60000002
+
+      }
+      Transform {
+        translation 0 -3.5 0
+
+      }
+      Cylinder {
+        radius 1.5
+        height 5
+
+      }
+    }
+    Group {
+
+      Separator {
+
+        DEF _+0 Material {
+          diffuseColor 0 1 0
+          shininess 0.5
+
+        }
+        Transform {
+          translation 0.69999999 -7 0
+
+        }
+        DEF _+1 Cube {
+          width 1
+          height 2
+          depth 1
+
+        }
+      }
+      Separator {
+
+        USE _+0
+        Transform {
+          translation -0.69999999 -7 0
+
+        }
+        USE _+1
+      }
+      Separator {
+
+        DEF _+2 Material {
+          diffuseColor 0 1 1
+          shininess 0.5
+
+        }
+        Transform {
+          translation 0.69999999 -8.5 0
+
+        }
+        DEF _+3 Cube {
+          width 0.80000001
+          height 1
+          depth 0.80000001
+
+        }
+      }
+      Separator {
+
+        USE _+2
+        Transform {
+          translation -0.69999999 -8.5 0
+
+        }
+        USE _+3
+      }
+      Separator {
+
+        DEF _+4 Material {
+          diffuseColor 0.93000001 0.50999999 0.93000001
+          shininess 0.60000002
+
+        }
+        Transform {
+          translation 0.69999999 -9.5 0.34999999
+
+        }
+        DEF _+5 Cube {
+          width 0.69999999
+          height 1
+          depth 1.5
+
+        }
+      }
+      Separator {
+
+        USE _+4
+        Transform {
+          translation -0.69999999 -9.5 0.34999999
+
+        }
+        USE _+5
+      }
+    }
+  }
+}

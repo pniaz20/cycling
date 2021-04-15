@@ -1,0 +1,16 @@
+﻿  Source.cpp
+E:\POUYA's DOCUMENTS\ACADEMICS\MECH 534\test\pouyaBot\pouyaBot\Source.cpp(79,29): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+E:\POUYA's DOCUMENTS\ACADEMICS\MECH 534\test\pouyaBot\pouyaBot\Source.cpp(154,27): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\POUYA's DOCUMENTS\ACADEMICS\MECH 534\test\pouyaBot\pouyaBot\Source.cpp(155,27): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\POUYA's DOCUMENTS\ACADEMICS\MECH 534\test\pouyaBot\pouyaBot\Source.cpp(161,22): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\POUYA's DOCUMENTS\ACADEMICS\MECH 534\test\pouyaBot\pouyaBot\Source.cpp(173,26): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\POUYA's DOCUMENTS\ACADEMICS\MECH 534\test\pouyaBot\pouyaBot\Source.cpp(174,46): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\POUYA's DOCUMENTS\ACADEMICS\MECH 534\test\pouyaBot\pouyaBot\Source.cpp(183,28): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\POUYA's DOCUMENTS\ACADEMICS\MECH 534\test\pouyaBot\pouyaBot\Source.cpp(184,51): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\POUYA's DOCUMENTS\ACADEMICS\MECH 534\test\pouyaBot\pouyaBot\Source.cpp(202,49): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\POUYA's DOCUMENTS\ACADEMICS\MECH 534\test\pouyaBot\pouyaBot\Source.cpp(206,50): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\POUYA's DOCUMENTS\ACADEMICS\MECH 534\test\pouyaBot\pouyaBot\Source.cpp(210,49): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\POUYA's DOCUMENTS\ACADEMICS\MECH 534\test\pouyaBot\pouyaBot\Source.cpp(214,50): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\POUYA's DOCUMENTS\ACADEMICS\MECH 534\test\pouyaBot\pouyaBot\Source.cpp(218,50): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\POUYA's DOCUMENTS\ACADEMICS\MECH 534\test\pouyaBot\pouyaBot\Source.cpp(222,51): warning C4305: 'argument': truncation from 'double' to 'float'
+  pouyaBot.vcxproj -> E:\POUYA's DOCUMENTS\ACADEMICS\MECH 534\test\pouyaBot\pouyaBot\x64\Debug\pouyaBot.exe

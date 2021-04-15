@@ -1,32 +1,39 @@
+# VS and VSCODE folders, always a pain in the butt
+cycling/.vs/*
+cycling/.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+cycling/*.code-workspace
+# Local History for Visual Studio Code
+cycling/.history/
+
 # Prerequisites
-*.d
+cycling/*.d
 
 # Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+cycling/*.slo
+cycling/*.lo
+cycling/*.o
+cycling/*.obj
 
 # Precompiled Headers
-*.gch
-*.pch
+cycling/*.gch
+cycling/*.pch
 
 # Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
+cycling/*.so
+cycling/*.dylib
+cycling/*.dll
 
 # Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
+cycling/*.lai
+cycling/*.la
+cycling/*.a
+cycling/*.lib
 
 # Executables
-*.exe
-*.out
-*.app
+cycling/*.exe
+cycling/*.out
+cycling/*.app
