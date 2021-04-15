@@ -69,13 +69,9 @@ If you want a very simple instruction set for installing Coin3D, simply follow t
 
 According to the paper written by [Ericson *et al.* [1]](doc/paper.pdf) (paper in `doc` folder), lower body joint angles move along sinusoidal trajectories in cycling motion. After visual approximation from the data provided by the authors on the figures, I came up with the following formula, which of course are not exact, but they will do.
 
-$H^{\circ} = 50 + 20\cos(\theta)$
+![eq](doc/eq.png)
 
-$K^{\circ} = 80 + 35 \cos(\theta + 30^{\circ})$
-
-$A^{\circ} = -10-10\cos(\theta-30^{\circ})$
-
-where $\theta=\omega t$ is the crank angle in degrees. All above formula are also in degrees. $H^{\circ}$ is the hip joint angle, denoted by $C$ in the paper, $K^{\circ}$ is the knee angle, and $A^{\circ}$ is the ankle joint angle, expressed in terms of *plantarflexion* and *dorsiflexion* . Figure below demonstrates them. Note, however, that crank angle $\theta$ is in radians in the figure below, ranging from 0 to $2\pi$.
+where ![theta](doc/theta.png)is the crank angle in degrees. All above formula are also in degrees. *H* is the hip joint angle, denoted by *C* in the paper, *K* is the knee angle, and *A* is the ankle joint angle, expressed in terms of *plantarflexion* and *dorsiflexion* . Figure below demonstrates them. Note, however, that crank angle is in radians in the figure below, ranging from 0 to 2*pi.
 
 ![diagram](doc/diagram.jpg)
 
